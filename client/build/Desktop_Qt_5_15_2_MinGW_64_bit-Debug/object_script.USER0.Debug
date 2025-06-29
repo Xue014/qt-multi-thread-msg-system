@@ -1,0 +1,12 @@
+debug/chatmessagedelegate.o
+debug/main.o
+debug/mainwindow.o
+debug/mylistwidgetitem.o
+debug/oneuser.o
+debug/uselogin.o
+debug/qrc_res.o
+debug/moc_chatmessagedelegate.o
+debug/moc_mainwindow.o
+debug/moc_mylistwidgetitem.o
+debug/moc_oneuser.o
+debug/moc_uselogin.o
